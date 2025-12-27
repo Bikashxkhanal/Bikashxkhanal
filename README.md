@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Bikashxkhanal
-- 👀 I’m interested in Data Science and Web Devlopment.
-- 🌱 I’m currently learning Web Development.
+- 👀 I’m interested in full stack Devlopment.
 - 📫 How to reach me...Khanalbikash007@gmail.com
 
 
