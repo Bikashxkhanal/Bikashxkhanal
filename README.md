@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bikashxkhanal
-- 👀 I’m interested in full stack Devlopment.
+- 👀 I’m a full stack Developer.
 - 📫 How to reach me...Khanalbikash007@gmail.com
 
 
