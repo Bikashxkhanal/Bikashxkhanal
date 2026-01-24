@@ -33,7 +33,6 @@
 
 ### Tools & Platforms
 - Git & GitHub
-- 
 ---
 
 ## 📌 Featured Projects
