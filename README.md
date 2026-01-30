@@ -8,7 +8,6 @@
 ## 🧑‍💻 About Me
 - 💻 I work with **HTML, CSS, JavaScript, React, PHP, Laravel, Java, C**
 - ⚙️ Interested in **Backend Architecture, OOAD, Design Patterns**
-- 🤖 Currently learning **Machine Learning & AI**
 - 🌱 Focused on writing **clean, maintainable, and scalable code**
 - 🛠️ Love building real-world projects like **Inventory Management Systems(Currently working)**
 
