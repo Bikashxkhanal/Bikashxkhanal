@@ -6,7 +6,7 @@
 ---
 
 ## 🧑‍💻 About Me
-- 💻 I work with **HTML, CSS, JavaScript, React, PHP, Java, C**
+- 💻 I work with **HTML, CSS, JavaScript, React, PHP, Laravel, Java, C**
 - ⚙️ Interested in **Backend Architecture, OOAD, Design Patterns**
 - 🤖 Currently learning **Machine Learning & AI**
 - 🌱 Focused on writing **clean, maintainable, and scalable code**
@@ -21,10 +21,12 @@
 - JavaScript (ES6+)
 - React.js
 
+
 ### Backend
 - PHP, JavaScript
 - REST APIs
 - MySQL
+- Laravel
 
 ### Programming & CS
 - C, Java
