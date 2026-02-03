@@ -1,12 +1,12 @@
 # 👋 Hi, I'm Bikash Khanal  
 
-🚀 **Full Stack Developer | Frontend Specialist | Backend Enthusiast | ML Learner**  
+🚀 **Full Stack Developer | Frontend Specialist | Backend Enthusiast **  
 🎓 Passionate about building scalable web applications and learning modern technologies.
 
 ---
 
 ## 🧑‍💻 About Me
-- 💻 I work with **HTML, CSS, JavaScript, React, PHP, Laravel, Java, C**
+- 💻 I work with **HTML, CSS, JavaScript, React, Express, MongoDB, PHP, Laravel, Java, C**
 - ⚙️ Interested in **Backend Architecture, OOAD, Design Patterns**
 - 🌱 Focused on writing **clean, maintainable, and scalable code**
 - 🛠️ Love building real-world projects like **Inventory Management Systems(Currently working)**
@@ -21,11 +21,15 @@
 - React.js
 
 
+
 ### Backend
 - PHP, JavaScript
 - REST APIs
 - MySQL
 - Laravel
+- NodeJs
+- Express
+- MongoDB
 
 ### Programming & CS
 - C, Java
