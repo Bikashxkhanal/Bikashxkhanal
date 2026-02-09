@@ -2,8 +2,6 @@
 
 🚀 **Full Stack Developer | Backend Specialist | MERN Enthusiast**  
 
-(Personal Website)[https://bikashkhanal07.com.np/]
-
 ---
 
 ## 🛠️ Tech Stack
@@ -49,6 +47,7 @@
 ---
 
 ## 📫 Connect With Me
+- 🌐 **Website:** [yourwebsite.com](https://yourwebsite.com)
 - 💼 Fiverr: [https://www.fiverr.com/users/bikashxkhanal/](https://www.fiverr.com/users/bikashxkhanal/)  
 - 💻 GitHub: [https://github.com/Bikashxkhanal/](https://github.com/Bikashxkhanal/)  
 - 📧 Email: khanalbikash007@gmail.com  
