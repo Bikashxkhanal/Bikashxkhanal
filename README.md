@@ -2,7 +2,7 @@
 
 🚀 **Full Stack Developer | Backend Specialist | MERN Enthusiast**  
 
-(#personal website)[https://bikashkhanal07.com.np/]
+(Personal Website)[https://bikashkhanal07.com.np/]
 
 ---
 
